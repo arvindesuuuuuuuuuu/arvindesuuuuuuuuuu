@@ -1,18 +1,20 @@
 <div align="center">
 
-  <!-- Decorative Top Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=120&section=header" width="100%" alt="Header Wave" />
+  <!-- Top Catppuccin Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=110&section=header" width="100%" alt="Header Wave" />
 
-  <!-- Title with Inline Anime Cat GIF (Swap the src URL with any Tenor/Giphy Anime Cat GIF!) -->
+  <!-- Hero Title with Anime Cat Meme GIF -->
   <h1>
-    <font color="#cba6f7">Hi, I'm Arvin!</font>
-    <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="50" align="center" alt="Anime Cat" />
+    <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="48" align="center" alt="Nyan Cat Meme" />
+    Hi, I'm Arvin!
+    <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="48" align="center" alt="Anime Cat Wave" />
   </h1>
-  <h3>Software Developer | Full-Stack Developer 🐾</h3>
 
-  <!-- Fixed Animated Typing Subtitle (Removed URL emoji bytes that caused the broken icon) -->
+  <p><b>Software Developer | Full-Stack Developer 🐾</b></p>
+
+  <!-- Fixed Typing Animation (Clean ASCII so GitHub doesn't cut off the text) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=CBA6F7&center=true&vCenter=true&width=650&lines=%3E+Building+HRIS+%26+Business+Applications;%3E+Exploring+AI%2C+Automation+%26+Software+Architecture;%3E+Backend+Development+%26+System+Design;%3E+Curious+by+nature%2C+always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=CBA6F7&center=true&vCenter=true&width=680&lines=%3E+Building+HRIS+%26+Business+Applications;%3E+Exploring+AI%2C+Automation+%26+Software+Architecture;%3E+Backend+Development+%26+System+Design;%3E+Curious+by+nature%2C+always+learning+something+new" alt="Typing SVG" />
   </a>
 
 </div>
@@ -33,10 +35,10 @@
       </ul>
     </td>
     <td width="32%" align="center" valign="middle">
-      <!-- Coding Cat GIF (You can also swap this URL with an anime cat coding GIF!) -->
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" style="border-radius: 12px;" alt="Coding Cat" />
+      <!-- Anime / Cartoon Cat Furious Coding Meme GIF -->
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" style="border-radius: 12px;" alt="Anime Cat Coding Meme" />
       <br />
-      <sub><i>"In the zone..." 🐾</i></sub>
+      <sub><i>"Deploying to production at 3 AM..." 🐾</i></sub>
     </td>
   </tr>
 </table>
@@ -68,4 +70,5 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindesuuuuuuuuu&layout=compact&theme=catppuccin_mocha&hide_border=true&border_radius=12" alt="Top Languages" />
 </div>
 
+<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=100&section=footer" width="100%" alt="Footer Wave" />
